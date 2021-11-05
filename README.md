@@ -1,24 +1,29 @@
-# README
+# <one click>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+<製造現場に必要な部品や資材をすぐにお手元へお届けするサイトです。>
 
-Things you may want to cover:
+### サイトテーマ
+<すぐに手配できるようにワンクリックで注文できるのがポイントです。>
 
-* Ruby version
+### テーマを選んだ理由
+<製造現場ではいつも「あれがない」「これが欲しい」という声があるからです。>
 
-* System dependencies
+### ターゲットユーザ
+<製造現場の人、一般の人>
 
-* Configuration
+### 主な利用シーン
+<必要な部品や資材が無い時>
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## チャレンジ要素一覧
+<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
