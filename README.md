@@ -16,10 +16,17 @@
 <必要な部品や資材が無い時>
 
 ## 設計書
-<...>
+#ER図
+<https://drive.google.com/file/d/1ezgN4pjbPQbSBTq920V6MTwQJrxHngCR/view?usp=sharing>
+
+#テーブル定義書
+<https://docs.google.com/spreadsheets/d/1S_xBFauohxOuU0RTyBG8upPBhIvmcOXyMcO4CftsSS8/edit?usp=sharing>
+
+#アプリケーション詳細設計
+<https://docs.google.com/spreadsheets/d/1Y8ZX4mV6m3pR47RpnOswxMDmuDO0NRnG/edit?usp=sharing&ouid=115204860233048042660&rtpof=true&sd=true>
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
+<https://docs.google.com/spreadsheets/d/1Rf50SfzHVBsAgkdM4yucXt87BPBtwUvY8emyByFCZ38/edit#gid=0>
 
 ## 開発環境
 - OS：Linux(CentOS)
